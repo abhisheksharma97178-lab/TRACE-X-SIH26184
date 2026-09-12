@@ -1,0 +1,35 @@
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+target/
+out/
+
+# Node / frontend (if added)
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local databases / runtime files
+*.db
+*.sqlite
+
+# Generated data
+*.tmp
+*.bak
